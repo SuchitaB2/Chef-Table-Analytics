@@ -37,9 +37,9 @@ CREATE TABLE sales (
 );
 
 -- ---------------- Load the CSVs (run from the project root) ----------------
-COPY menu_items    FROM 'data/menu_items.csv'    (HEADER, AUTO_DETECT TRUE);
-COPY inventory_log FROM 'data/inventory_log.csv' (HEADER, AUTO_DETECT TRUE);
-COPY sales         FROM 'data/sales.csv'         (HEADER, AUTO_DETECT TRUE);
+COPY menu_items    FROM 'menu_items.csv'    (HEADER, AUTO_DETECT TRUE);
+COPY inventory_log FROM 'inventory_log.csv' (HEADER, AUTO_DETECT TRUE);
+COPY sales         FROM 'sales.csv'         (HEADER, AUTO_DETECT TRUE);
 
 -- Sanity checks
 SELECT 'menu_items'    AS tbl, COUNT(*) AS rows FROM menu_items
