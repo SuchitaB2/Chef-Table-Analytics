@@ -1,0 +1,53 @@
+item_id,item_name,category,unit_cost,unit_price
+1,Samosa,appetizer,3.30,11.00
+2,Chicken 65,appetizer,4.80,16.00
+3,Bhajiya Pakora,appetizer,3.60,12.00
+4,Dahi Sev Puri,appetizer,3.60,12.00
+5,Gol Gappe,appetizer,3.60,12.00
+6,Papri Ki Chat,appetizer,3.60,12.00
+7,Murg Tikka,appetizer,6.30,21.00
+8,Lamb Seekh Kabab,appetizer,7.80,26.00
+9,Hariyali Murg Tikka,appetizer,6.30,21.00
+10,Chilli Chicken (Dry),appetizer,5.70,19.00
+11,Chicken Dumpling,appetizer,3.60,12.00
+12,Mini Spring Roll,appetizer,2.70,9.00
+13,Butter Chicken,entree,6.30,21.00
+14,Murg Tikka Masala,entree,6.30,21.00
+15,Dal Makhani,entree,5.70,19.00
+16,Kadai Chicken,entree,6.30,21.00
+17,Matka Goat,entree,8.70,29.00
+18,Saag Gosht,entree,7.20,24.00
+19,Paneer Makhani,entree,6.00,20.00
+20,Kadai Paneer,entree,6.00,20.00
+21,Malai Kofta,entree,6.30,21.00
+22,Paneer Tikka Masala,entree,6.00,20.00
+23,Peshwari Chole,entree,4.80,16.00
+24,Baingan Bharta,entree,5.70,19.00
+25,Chicken Biryani,entree,6.30,21.00
+26,Goat Biryani,entree,8.70,29.00
+27,Vegetable Biryani,entree,5.70,19.00
+28,Chilli Garlic Noodles,entree,4.50,15.00
+29,Hakka Noodles,entree,4.50,15.00
+30,Chicken Red Thai Curry,entree,5.70,19.00
+31,Garlic Naan,bread,1.80,6.00
+32,Butter Naan,bread,1.50,5.00
+33,Tandoori Roti,bread,1.50,5.00
+34,Lachha Paratha,bread,1.80,6.00
+35,Onion Kulcha,bread,1.80,6.00
+36,Cheese Naan,bread,1.80,6.00
+37,Chilli Garlic Naan,bread,1.80,6.00
+38,Methi Paratha,bread,1.80,6.00
+39,Gulab Jamun,dessert,2.10,7.00
+40,Rasmalai,dessert,3.30,11.00
+41,Kulfi Falooda,dessert,3.30,11.00
+42,Gajar Ka Halwa,dessert,2.40,8.00
+43,Baked Rasgulla,dessert,2.40,8.00
+44,Kulfi (Plain),dessert,3.00,10.00
+45,Mango Lassi,beverage,2.70,9.00
+46,Sweet Lassi,beverage,2.40,8.00
+47,Masala Soda,beverage,1.50,5.00
+48,Sweet Lime Soda,beverage,1.50,5.00
+49,Coca-Cola,beverage,0.90,3.00
+50,Diet Coke,beverage,0.90,3.00
+51,Mineral Water,beverage,0.60,2.00
+52,Aam Ka Panna,beverage,2.40,8.00
